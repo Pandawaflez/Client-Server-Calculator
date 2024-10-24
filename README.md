@@ -1,6 +1,6 @@
 # Client-Server-Calculator
 A simple client-server calculator written in C.
-This code may be used for reference, but it may not be plagiarized or otherwise copied in order to be turned in for a certain class in which this is an assignment.
+This code may be used for reference, but it may be used for anything excpet for plagiarized for a certain class in which this is an assignment.
 To Compile:
 Run calculator.mk
 To Run:
